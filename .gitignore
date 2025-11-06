@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Ignore .env files everywhere
+*.env
+**/.env
+
