@@ -10,6 +10,10 @@ An interactive storytelling game that uses AI to generate dynamic, choice-driven
 - ⚡ **Real-Time Story Generation**: Asynchronous job processing with polling for smooth user experience
 - 🎭 **Immersive Interface**: Beautiful, themed UI with loading animations and error handling
 - 💾 **Persistent Storage**: PostgreSQL database to store stories and game sessions
+
+https://github.com/user-attachments/assets/b7b447df-b210-4f78-b65e-da5a1511eabc
+
+
 - 📊 **Progress Tracking**: Track your exploration through the story and navigate backwards
 
 ## 🏗️ Architecture
@@ -194,6 +198,10 @@ npm run preview
 ```
 
 ## 🎬 Demo Video
+
+https://github.com/user-attachments/assets/bf5814c8-ff23-4984-8cf6-aefae9f1009b
+
+
 
 > **Coming Soon!** Check back later for a full walkthrough of the AI-Powered Interactive Adventure Game in action.
 
